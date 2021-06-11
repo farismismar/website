@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://farismismar.com/sitemap.xml
